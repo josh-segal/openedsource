@@ -1,3 +1,8 @@
+### Funny
+make button that says YC backend instead of YC backed.
+email favorite open sourcr startups with website as cred and learn more about them and their openness to contribution.
+
+
 ### Goal
 To surface good open source issues open to new contributors. Getting professional SWE experience is tough and building full personal projects end-to-end is a huge time commitment. 
 
